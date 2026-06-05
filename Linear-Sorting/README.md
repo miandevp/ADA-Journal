@@ -1,8 +1,8 @@
 # Linear Sorting
 
-## Objetivo
+## Definicion
 
-En esta sección documentaré mi aprendizaje sobre algoritmos de ordenamiento lineal.
+Los algoritmos de ordenamiento lineal son métodos de ordenamiento que, bajo ciertas condiciones, pueden ordenar elementos en tiempo O(n), evitando las comparaciones repetidas de algoritmos como Merge Sort o Quick Sort.
 
 ## Temas
 
@@ -10,31 +10,6 @@ En esta sección documentaré mi aprendizaje sobre algoritmos de ordenamiento li
 - Radix Sort
 - Bucket Sort
 
-## Counting Sort
-
-### Idea
-
-Contar cuántas veces aparece cada número y luego reconstruir el arreglo ordenado.
-
-### Complejidad
-
-- Tiempo: O(n + k)
-- Espacio: O(k)
-
-### Ejemplo
-
-Arreglo original:
-
-1 4 1 2 7 5 2
-
-Arreglo ordenado:
-
-1 1 2 2 4 5 7
-
-## Recursos
-
-- Diapositivas del curso
-- Ejercicios resueltos
 
 
 

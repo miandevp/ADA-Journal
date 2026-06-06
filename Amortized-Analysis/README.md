@@ -71,12 +71,11 @@ y la suma es:
 
 $$
 1 + 2 + 4 + \cdots + 2^{k-1}
-============================
-
+=
 2^k - 1
 $$
 
-Si se realizaron aproximadamente (n) inserciones:
+Si se realizaron aproximadamente \(n\) inserciones:
 
 $$
 \text{Costo total} = O(n)
@@ -84,16 +83,13 @@ $$
 
 Por lo tanto:
 
+Costo amortizado por inserción:
+
 $$
-\text{Costo amortizado por inserción}
-=====================================
-
-# \frac{O(n)}{n}
-
+\frac{O(n)}{n}
+=
 O(1)
 $$
-
----
 
 ## Métodos de análisis amortizado
 

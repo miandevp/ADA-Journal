@@ -69,28 +69,27 @@ Las copias realizadas son:
 
 y la suma es:
 
-$$
+```math
 1 + 2 + 4 + \cdots + 2^{k-1}
 =
 2^k - 1
-$$
+```
 
-Si se realizaron aproximadamente \(n\) inserciones:
+Si se realizaron aproximadamente n inserciones:
 
-$$
+```math
 \text{Costo total} = O(n)
-$$
+```
 
 Por lo tanto:
 
 Costo amortizado por inserción:
 
-$$
+```math
 \frac{O(n)}{n}
 =
 O(1)
-$$
-
+```
 ## Métodos de análisis amortizado
 
 ### Aggregate Method

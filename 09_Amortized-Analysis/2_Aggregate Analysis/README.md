@@ -240,7 +240,7 @@ $$
 Cambian:
 
 $$
-b_1; b_0
+b_1![alt text](image.png); b_0
 $$
 
 Costo:
